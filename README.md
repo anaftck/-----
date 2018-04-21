@@ -1,2 +1,6 @@
 # -----
- project HELLO WOLRD is a tribute to the tradition of programming
+Hi Guys!!
+ 
+You are very cool!! I'm Anaftck. I'm algoritmman)
+
+And it's great, that there is such a service where I can learn everything new and consisten!
